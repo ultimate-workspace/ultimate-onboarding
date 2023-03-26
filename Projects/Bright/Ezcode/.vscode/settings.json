@@ -1,0 +1,31 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    // ".buckconfig": true,
+    // ".gitignore": true,
+    // ".prettierrc": false,
+    // ".node-version": true,
+    // ".prettierignore": true,
+    // ".prettierrc.json": true,
+    // ".ruby-version": true,
+    // ".watchmanconfig": false,
+    // "jest.config.js": true,
+    // ".eslintrc": false,
+    // ".eslintignore": true,
+    // ".bundle": true,
+    // "__tests__": true
+  },
+  "cSpell.words": [
+    "Bulock",
+    "gmail",
+    "htmlview",
+    "Insta",
+    "nevermind",
+    "readed",
+    "recyclerlistview",
+    "Sandar",
+    "Stacy",
+    "Takken"
+  ]
+}

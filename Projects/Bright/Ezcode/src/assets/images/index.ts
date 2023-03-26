@@ -1,0 +1,27 @@
+export const Images = {
+  logo: require('./app/img_logo.png'),
+  logo_simple: require('./app/img_logo_simple.png'),
+  dark_mode: require('./app/img_dark_mode.png'),
+  light_mode: require('./app/img_light_mode.png'),
+  rounded: require('./app/img_rounded.png'),
+  banner: require('./app/img_banner.png'),
+  avatar: {
+    gg: require('./app/img_gg.png'),
+    apple: require('./app/img_apple.png'),
+    avatar_01: require('./app/img_avatar_01.png'),
+    avatar_02: require('./app/img_avatar_02.png'),
+    avatar_03: require('./app/img_avatar_03.png'),
+    avatar_04: require('./app/img_avatar_04.png'),
+    avatar_05: require('./app/img_avatar_05.png'),
+  },
+  walkthrough: {
+    walkthrough_01: require('./walkthrough/img_wt_01.png'),
+    walkthrough_02: require('./walkthrough/img_wt_02.png'),
+    walkthrough_03: require('./walkthrough/img_wt_03.png'),
+    walkthrough_04: require('./walkthrough/img_wt_04.png'),
+    walkthrough_05: require('./walkthrough/img_wt_05.png'),
+    walkthrough_06: require('./walkthrough/img_wt_06.png'),
+    walkthrough_07: require('./walkthrough/img_wt_07.png'),
+    walkthrough_08: require('./walkthrough/img_wt_08.png'),
+  },
+};
